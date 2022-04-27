@@ -1,0 +1,10 @@
+	*Este é um projeto que estou desenvolvendo para uma amiga afim de testar meus conhecimentos e me desenvolver na linguagem c# pela prática.
+O sistema consiste em um controle de investimentos semanais versus o faturamento obtido, cadastro de clientes para facilitar na montagem
+dos pedidos adquirindo o id_cliente através do telefone e autopreenchimento dos dados nome e endereço de entrega, cadastro de produtos, e
+formulário de montagem de pedidos.
+	*O Software utiliza as tecnólogias, C# (.net5) e sqlite;
+
+
+
+att Luciano Prado.
+ 
